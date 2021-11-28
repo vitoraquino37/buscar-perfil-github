@@ -19,7 +19,11 @@ Quando efetuar a busca, conseguirá visualizar a foto da pessoa, algumas informa
 
 Entre outas informações
 
-![image-20211127235611571](C:\Users\Eduzz 207\AppData\Roaming\Typora\typora-user-images\image-20211127235611571.png)
+
+
+##### Imagem de exemplo
+
+Pasta "img"
 
 
 
